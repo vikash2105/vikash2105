@@ -65,4 +65,4 @@
 
 ```txt
 Coming soon...
-(Will automatically update if linked with Wakatime)
+
