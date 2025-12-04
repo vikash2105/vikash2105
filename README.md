@@ -61,8 +61,8 @@
 
 ---
 
-### 📊 Weekly Coding Stats
 
-```txt
-Coming soon...
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
